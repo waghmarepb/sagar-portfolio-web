@@ -9,7 +9,7 @@ type ProjectCardProps = {
   title: string;
   link: string;
   description?: string;
-  tech?: string[];
+  tech?: readonly string[];
 };
 
 export const ProjectCard = ({
