@@ -36,7 +36,7 @@ export const Collaboration = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed"
           >
-            Let's transform your vision into reality! Share your app idea with me and I'll help you bring it to life with cutting-edge technology.
+            Let&apos;s transform your vision into reality! Share your app idea with me and I&apos;ll help you bring it to life with cutting-edge technology.
           </motion.p>
         </motion.div>
 
@@ -113,8 +113,8 @@ export const Collaboration = () => {
               Ready to Start Your Project?
             </h2>
             <p className="text-gray-300 mb-8 text-lg leading-relaxed">
-              Drop me an email with your app idea, and let's discuss how we can make it happen. 
-              From concept to deployment, I'll guide you through every step of the journey.
+              Drop me an email with your app idea, and let&apos;s discuss how we can make it happen. 
+              From concept to deployment, I&apos;ll guide you through every step of the journey.
             </p>
             
             <motion.a
@@ -124,7 +124,7 @@ export const Collaboration = () => {
               className="inline-flex items-center gap-3 bg-gradient-to-r from-purple-500 to-cyan-500 text-white px-8 py-4 rounded-full font-semibold text-lg hover:shadow-lg hover:shadow-purple-500/25 transition-all duration-300 group"
             >
               <HiMail className="text-xl group-hover:scale-110 transition-transform" />
-              Let's Collaborate
+              Let&apos;s Collaborate
               <motion.span
                 animate={{ x: [0, 5, 0] }}
                 transition={{ duration: 1.5, repeat: Infinity }}
@@ -149,7 +149,7 @@ export const Collaboration = () => {
           className="mt-16 text-center"
         >
           <p className="text-gray-500 text-sm italic">
-            "Every great app starts with a simple idea. Let's make yours extraordinary."
+            &ldquo;Every great app starts with a simple idea. Let&apos;s make yours extraordinary.&rdquo;
           </p>
         </motion.div>
       </div>
