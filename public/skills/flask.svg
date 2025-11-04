@@ -1,0 +1,8 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="12" fill="#000000"/>
+  <path d="M40 15L25 25V55C25 60 30 65 35 65H45C50 65 55 60 55 55V25L40 15Z" fill="#FFFFFF"/>
+  <path d="M30 30H50V50C50 52 48 54 46 54H34C32 54 30 52 30 50V30Z" fill="#000000"/>
+  <path d="M35 35H45V45H35V35Z" fill="#FFFFFF"/>
+  <text x="40" y="42" text-anchor="middle" fill="black" font-family="Arial" font-size="8" font-weight="bold">FLASK</text>
+</svg>
+

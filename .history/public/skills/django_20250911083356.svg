@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="12" fill="#092E20"/>
+  <path d="M20 20H60V25H20V20Z" fill="#44B78B"/>
+  <path d="M20 25H60V30H20V25Z" fill="#44B78B"/>
+  <path d="M20 30H60V35H20V30Z" fill="#44B78B"/>
+  <path d="M20 35H60V40H20V35Z" fill="#44B78B"/>
+  <path d="M20 40H60V45H20V40Z" fill="#44B78B"/>
+  <path d="M20 45H60V50H20V45Z" fill="#44B78B"/>
+  <path d="M20 50H60V55H20V50Z" fill="#44B78B"/>
+  <path d="M20 55H60V60H20V55Z" fill="#44B78B"/>
+  <text x="40" y="42" text-anchor="middle" fill="white" font-family="Arial" font-size="10" font-weight="bold">DJANGO</text>
+</svg>
