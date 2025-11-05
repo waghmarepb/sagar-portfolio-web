@@ -82,7 +82,7 @@ const NeuralLine = ({
   }, [start, end]);
 
   return (
-    <line ref={lineRef}>
+    <line ref={lineRef as any}>
       <bufferGeometry>
         <bufferAttribute
           attach="attributes-position"
